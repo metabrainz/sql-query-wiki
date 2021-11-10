@@ -4,3 +4,5 @@ A collection of useful or interesting SQL queries to use with our projects. Feel
 ## No content, only wiki
 
 This repo is meant to have a wiki to collect useful SQL queries, but the actual code in this repo should remain blank.
+
+## [Go to the Wiki!](https://github.com/metabrainz/sql-query-wiki/wiki)
